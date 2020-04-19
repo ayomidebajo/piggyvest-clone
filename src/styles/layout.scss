@@ -1,0 +1,14 @@
+@import './navbar.scss';
+@import './header.scss';
+@import './howto.scss';
+
+body {
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+
+    .container {
+        margin-right: 8%;
+        margin-left: 8%;
+    }
+}
